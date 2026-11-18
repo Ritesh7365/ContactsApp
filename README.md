@@ -4,6 +4,10 @@ Contacts app for iPhone built with UIKit. Has contacts list, recents and favorit
 
 Made this as part of my iOS learning (UIKit week).
 <img width="735" height="1568" alt="image" src="https://github.com/user-attachments/assets/5b245e10-fd4c-462a-828c-63450700faf2" />
+<img width="647" height="1280" alt="image" src="https://github.com/user-attachments/assets/330f3453-334f-460d-8b97-c691524d507b" />
+<img width="651" height="1280" alt="image" src="https://github.com/user-attachments/assets/835a0b59-7687-44c9-8b07-3b4d8c75f778" />
+
+
 
 
 ## Features
